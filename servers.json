@@ -2,22 +2,22 @@
     {
         "host": "elementprincipal.duckdns.org",
         "image": "us.png",
-        "name": "ELEMENT PRO [MIAMI]"
+        "name": "MIAMI"
     },
     {
         "host": "elementcarolina.duckdns.org",
         "image": "us.png",
-        "name": "ELEMENT PRO [North Carolina]"
-    },
-    {
-        "host": "thunderemp.duckdns.org",
-        "image": "us.png",
-        "name": "ELEMENT PRO [LAS NOCHES]"
+        "name": "North Carolina [1]"
     },
     {
         "host": "carolina2element.duckdns.org",
         "image": "us.png",
-        "name": "ELEMENT PRO [North Carolina 2]"
+        "name": "North Carolina [2]"
+    },
+    {
+        "host": "thunderemp.duckdns.org",
+        "image": "us.png",
+        "name": "Miami [STREMING]"
     },
     {
         "host": "128.254.207.198",
@@ -38,6 +38,11 @@
         "host": "savedry.duckdns.org",
         "image": "do.png",
         "name": "SAVEDRY"
+    },
+    {
+        "host": "elementcarolina.duckdns.org",
+        "image": "us.png",
+        "name": "Oliver RD"
     },
     {
         "host": "1.1.1.1",
