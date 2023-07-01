@@ -1,16 +1,16 @@
 [
     {
-        "host": "elementprincipal.duckdns.org",
+        "host": "miamielement.elementmax.cf",
         "image": "us.png",
         "name": "MIAMI"
     },
     {
-        "host": "elementcarolina.duckdns.org",
+        "host": "carolina1.elementmax.cf",
         "image": "us.png",
         "name": "North Carolina [1]"
     },
     {
-        "host": "carolina2element.duckdns.org",
+        "host": "carolina2.elementmax.cf",
         "image": "us.png",
         "name": "North Carolina [2]"
     },
@@ -20,7 +20,7 @@
         "name": "North Carolina [3]"
     },
     {
-        "host": "thunderemp.duckdns.org",
+        "host": "miamidedicado.elementmax.cf",
         "image": "us.png",
         "name": "Miami [STREAMING]"
     },
