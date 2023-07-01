@@ -15,6 +15,11 @@
         "name": "North Carolina [2]"
     },
     {
+        "host": "107.152.43.139",
+        "image": "us.png",
+        "name": "North Carolina [3]"
+    },
+    {
         "host": "thunderemp.duckdns.org",
         "image": "us.png",
         "name": "Miami [STREAMING]"
