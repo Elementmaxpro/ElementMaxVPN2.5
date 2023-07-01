@@ -16,7 +16,7 @@
     },
     {
         "host": "northcarolina3.elementmax.cf",
-        "image": "u.png",
+        "image": "us.png",
         "name": "North Carolina [3]"
     },
     {
@@ -25,7 +25,7 @@
         "name": "Miami [STREAMING]"
     },
     {
-        "host": "128.254.207.198",
+        "host": "hunter1.elementmax.cf",
         "image": "do.png",
         "name": "HUNTER [1]"
     },
